@@ -1,4 +1,5 @@
-_site
-.sass-cache
-.jekyll-metadata
 templates
+_site
+.DS_Store
+*.swp
+.sass-cache
