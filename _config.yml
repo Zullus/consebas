@@ -1,16 +1,38 @@
-title: Your New Jekyll Site
-description: Blogging about stuffs
+title: Site dos Consebas 1989~1991
+email: edson.santos@gmail.com
+description: Site dos Consebas 1989~1991
+baseurl: /consebas
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
+url: https://zullus.github.io/consebas/
+domain_name: 'https://zullus.github.io/consebas/'
 
 markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+
+#google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'https://zullus.github.io/'
+author:         'Edson Santos'
+
+twitter_username:  zullu
+github_username:   Zullus
+intagram_username: zullus
+facebook_username: zullus
+linkedin_username: edsonsantos
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
