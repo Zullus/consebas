@@ -3,7 +3,7 @@ layout: page
 title: Aniversariantes Consebas
 ---
 
-## Lista dos aniversários
+### Lista dos aniversários
 
 <table>
     <thead>
