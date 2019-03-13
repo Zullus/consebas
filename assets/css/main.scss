@@ -21,6 +21,12 @@ li img{
     max-width: 10em;
 }
 
+    li img:hover{
+        width: 12em;
+        border: solid 10px #243481;
+        z-index: 1000!important;
+    }
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
