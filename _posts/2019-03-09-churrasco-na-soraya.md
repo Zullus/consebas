@@ -15,7 +15,9 @@ E, Shioda, não esquecemos de você!
 
 Confira as fotos!
 
-{% for counter in (00..39) %}
-    <img class="" src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-{{ counter }}.jpg" alt="" nopin="nopin" />
-    https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-{{ counter }}.jpg
-{% endfor %}
+{% highlight ruby %}
+    {% for counter in (00..39) %}
+        <img class="" src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-{{ counter }}.jpg" alt="" nopin="nopin" />
+        https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-{{ counter }}.jpg
+    {% endfor %}
+{% endhighlight %}
