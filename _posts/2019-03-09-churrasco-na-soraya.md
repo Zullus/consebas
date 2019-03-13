@@ -75,7 +75,7 @@ Confira as fotos!
         <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-19.jpg" alt="Essa ficou reperida e não vou tirar">Essa ficou reperida e não vou tirar
      </li>
      <li>
-        <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-20.jpg" alt="Quae todos">Quae todos
+        <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-20.jpg" alt="Quae todos">Quase todos
      </li>
      <li>
         <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-21.jpg" alt="Daniel e seu pequenos">Daniel e seu pequenos
