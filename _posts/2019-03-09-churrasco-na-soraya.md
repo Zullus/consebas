@@ -167,9 +167,9 @@ Confira as fotos!
         Mais uma repetida....
      </li>
      <li>
-        <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-31.jpg" alt="Bia e a sobrinha da Soraya">
+        <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-31.jpg" alt="Rafaela e a sobrinha da Soraya">
         <br>
-        Bia e a sobrinha da Soraya
+        Rafaela e a sobrinha da Soraya
      </li>
      <li>
         <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-32.jpg" alt="Ellen, Cláudio e Adriana">
