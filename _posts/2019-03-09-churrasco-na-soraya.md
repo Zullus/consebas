@@ -56,11 +56,11 @@ Confira as fotos!
         <br>
         Parte das Trigêmemas
      </li>
-     <li>
+     <!--<li>
         <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-09.jpg" alt="Adriana">
         <br>
         Adriana
-     </li>
+     </li>-->
      <li>
         <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-10.jpg" alt="Elaine, Valéria e Zullu">
         <br>
