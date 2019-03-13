@@ -15,6 +15,10 @@ E, Shioda, não esquecemos de você!
 
 Confira as fotos!
 
+![Imagem 1](https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-01.jpg)
+![Imagem 2](https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-02.jpg)
+![Imagem 3](https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-03.jpg)
+
 <ul>
      <li><img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-01.jpg" alt=""></li>
      <li><img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-02.jpg" alt=""></li>
