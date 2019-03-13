@@ -634,6 +634,7 @@ margin on the iframe, cause it breaks stuff. */
 .no-cover .back-button,
 .no-cover .subscribe-button {
     background: none;
+    background: #fff url('https://s3-us-west-2.amazonaws.com/consebas/consebas-no-conseba.jpg') no-repeat center;
 }
 
 .main-nav.overlay a {
