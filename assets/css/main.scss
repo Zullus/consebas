@@ -8,6 +8,15 @@
 	display:inline;
 }
 
+li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+li img{
+    max-width: 40em;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
