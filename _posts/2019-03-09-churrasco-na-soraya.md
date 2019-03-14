@@ -19,7 +19,6 @@ Confira as fotos!
      <li>
         <a href="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-01.jpg" target="_blank">
             <img src="https://s3-us-west-2.amazonaws.com/consebas/churrasco-na-soraya-09-03-2019-01.jpg" alt="Os Primeiros a chegar">
-        </a>
         </a><br>
         Os Primeiros a chegar
      </li>
