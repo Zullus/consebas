@@ -134,6 +134,10 @@ title: Aniversariantes Consebas
             <td>30/out</td>
         </tr>
         <tr>
+            <td>Eduardo Penko</td>
+            <td>12/nov</td>
+        </tr>
+        <tr>
             <td>Carla</td>
             <td>22/nov</td>
         </tr>
