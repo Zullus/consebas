@@ -7,7 +7,7 @@ categories: Encontros
 
 ### Bailão da Adriana No Kabala....
 
-Sábado, dia 30 de março de 2019, a Adriana comemorou seu aniversão de *XX* ano no Kabala em Guarulhos, que teve invaão Conseba, presensa iluste e show so musico Lucas Molina!
+Sábado, dia 30 de março de 2019, a Adriana comemorou seu aniversão de **XX** ano no Kabala em Guarulhos, que teve invaão Conseba, presensa iluste e show so musico Lucas Molina!
 
 _Ibagens, quero ibagens_!
 
