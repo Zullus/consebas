@@ -17,7 +17,7 @@ Para O CEU Quinta do Sol fica na [Av. Luiz Imparato 564 Vila Cisper São Paulo -
 
 Após a jogatina, vamos nos confratenizar no QG, também conhecido como a casa da Valéria para a já prometida inauguração da geladeira, começando por volta da 17:00h.
 
-###Night Run
+### Night Run
 
 Já no sábado 04 de maio vamos participar, aquele que podem correr ou caminhar, na Night Run, na Cidade Univesitária. Haverá um show após a corrida. Os detalhes estão no site da [Night Run](https://www.nightrun.com.br/sao-paulo/etapa-rock/ "Night Run").
 
