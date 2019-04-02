@@ -5,7 +5,7 @@ date:   2019-03-13 20:39:00
 categories: Encontros
 ---
 
-## Basquete no CEU
+### Basquete no CEU
 
 [quadradoceu]: https://s3-us-west-2.amazonaws.com/consebas/quadra-do-ceu-quinta-do-sol.jpg "Quadra do CEU Quinta do Sol"
 
@@ -16,6 +16,10 @@ Dia 01/05/2019 das 14:00h ás 16:00h vamos fazer iremos nos encontrar para jogar
 Para O CEU Quinta do Sol fica na [Av. Luiz Imparato 564 Vila Cisper São Paulo - SP](https://goo.gl/maps/4atF2TxWgkp "Veja o mapa").
 
 Após a jogatina, vamos nos confratenizar no QG, também conhecido como a casa da Valéria para a já prometida inauguração da geladeira, começando por volta da 17:00h.
+
+###Night Run
+
+Já no sábado 04 de maio vamos participar, aquele que podem correr ou caminhar, na Night Run, na Cidade Univesitária. Haverá um show após a corrida. Os detalhes estão no site da [Night Run](https://www.nightrun.com.br/sao-paulo/etapa-rock/ "Night Run").
 
 
 
