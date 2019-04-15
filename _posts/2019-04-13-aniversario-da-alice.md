@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bailão da Adriana No Kabala!"
+title:  "Aniversário de um ano da Alice!"
 date:   2019-04-13 18:00:00
 categories: Encontros
 ---
