@@ -142,8 +142,16 @@ title: Aniversariantes Consebas
             <td>22/nov</td>
         </tr>
         <tr>
+            <td>Vilma Cristina</td>
+            <td>27/nov</td>
+        </tr>
+        <tr>
             <td>Cláudia</td>
             <td>04/dez</td>
+        </tr>
+        <tr>
+            <td>Marta</td>
+            <td>21/dez</td>
         </tr>
         <tr>
             <td>Nely</td>
